@@ -14,3 +14,14 @@
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
 .prettierignore
+
+.vscode
+.parcel-cache
+node_modules
+package.json
+package-lock.json
+.vscode
+.prettierrc
+.postcssrc
+tailwind.config.js
+dist
